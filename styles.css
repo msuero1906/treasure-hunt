@@ -1,0 +1,10 @@
+h1, h6, h2 {
+    text-align:center;
+}
+img { 
+    display:block;
+    margin:auto;
+}
+h2, img { 
+    display:none;
+}
